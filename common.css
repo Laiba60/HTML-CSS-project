@@ -10,3 +10,22 @@ body{
     width:90%;
     height:100%;
 }
+    
+    .arrange-left{
+        float:left;
+    }
+.common-btn{
+    height:40px;
+    border:1px solid #ddd;
+    border-radius: none;
+    background-color: #fff;
+    text-align: center;
+    min-width:50px;
+    color:#d19C97;
+
+
+}
+.common-btn span{
+    font-size:16px;
+    font-weight:800px;
+}
